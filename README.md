@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Jenkins CI/CD Pipeline Architecture](images/architecture.png)
+![Jenkins CI/CD Pipeline Architecture](in.png)
 
 # Jenkins CI/CD Pipeline
 
